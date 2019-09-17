@@ -1,0 +1,309 @@
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+           <h2 class="oe_slogan" style="color:olive;"><b>Machine Repair Management</h2>
+            <h3 class="oe_slogan" style="color:green;"><b>All Types of Machines</h2>
+           <p class="oe_mt32"  style="color:olive;">
+This module develop to handle business/industries of Machine Repairs.<br><br><b style="color:CRIMSON;"> Main Features:</b><br>
+    * Your Customer can send machine repair request from your website and also attach documents.<br>
+    * Generation of unique machine request on submission and record it as machine request in backend.<br>
+    * Customer can check status of all machine request tickets submitted by him/her on My Account page.<br>
+    * Diagnosys of machine repair requests and create quotation and send to your customer.<br>
+    * Create Job Order / Work Order and assigned to Responsible or Technician.<br>
+    * Configure Machine Repair teams, Services, Service types.<br>
+    * Configure Machines and Machine Parts.<br>
+    * Machine More images.<br>
+    * Print PDF - Machine Request<br>
+    * Machine Request User / Technician can communitcate with customer using chatter and fill timesheet.<br>
+    * Machine Request Manager can close ticket and send bill to customer (Billing from Quotation created from Diagnosys).<br>
+    * Customer can give feedback and rating of Machine Request.<br>
+    * Manage your Machine Request tickets using assignment to multiple Machine Request teams.<br>
+    * Reports -> Machine Request in PDF, Machine Repair Lable and Machine Repair Analysis Available<br>
+        </p>
+          <p style="color:olive;"><b style="color:CRIMSON;">Menus Available:</b><br>
+-> Repair<br>
+-> Repair/Configuration<br>
+-> Repair/Configuration/Machine Repair Teams<br>
+-> Repair/Configuration/Service Types<br>
+-> Repair/Configuration/Services<br>
+-> Repair/Machine Repairs<br>
+-> Repair/Machine Repairs/Machine Diagnosys<br>
+-> Repair/Machine Repairs/Machine Repair Tickets<br>
+-> Repair/Machine Repairs/Machine WorkOrders<br>
+-> Repair/Machines<br>
+-> Repair/Machines/Machine Parts<br>
+-> Repair/Machines/Machines<br>
+-> Repair/Reports<br>
+            </p>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Machine Repair Team - List View</b></h3>
+<p style="color:olive;"> You can create different Machine Repair teams and assign Machine Repair tickets to Machine Repair team responsible to do that job.
+       <div class="oe_demo oe_screenshot">
+           <img src="team.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Machine Services Configuration</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="service.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Machine Service Type Configuration</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="service_type.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Machines</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="machine.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Machine Parts</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="machine_part.png">
+       </div>
+   </div>
+</section>
+
+
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Machine Repair Reqest by Customer from Your Website</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="website_form.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">After Submit Customer will have Request Number for Future Reference and Communication.</b></h3>
+<p style="color:olive;"> On submit system will create repair request in backend under default repair team.
+       <div class="oe_demo oe_screenshot">
+           <img src="thanks_msg.png">
+       </div>
+   </div>
+</section>
+
+
+
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Backend Form Machine Repair Request</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="req_form.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Repair Timesheet Tab Fill by Your Technician and Repair Team for Working Hours.</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="re_timesheet.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">General Information Tab</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="req_genral_info.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Product Consumes Part Tab</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="req_product_part.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Add Machine More Images</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="req_img.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Create Diagnosys Button from Machine Request</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="crate_Diagnosys.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Diagnosys Created from Machine Request</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="Diag_repair.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Diagnosys Timesheet</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="Diag_timesheet.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Diagnosys Information</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="Diag_extar_info.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Create Work Order Button from Machine Request</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="crate_workorder.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Work Order Timesheet Tab Fill by Repair User and Team</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="work_timesheet.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Work Order Informtion Tab</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="work_extra_info.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Create Quotations from Diagnosys of Machine</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="crate_qute.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Quotations Created List View</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="qute_list.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Quotations Created Form View</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="qute_form.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Allow You to Close Machine Request if Job Orders are Done.</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="close-buttone.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">EMail sent to Customer on Close of Machine Request</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="mail.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">My Machine Requests on Website - for Customer View</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="my_reqest.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;"></b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="my_req_2.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Feedback Link will be Send to Customer for Feedback on Machine Request Close</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="mail_feedbcke.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Customer Rating Stored on Repair Request</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="rating.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Thank you to Customer for Providing Feedback</b></h3>
+       <div class="oe_demo oe_screenshot">
+           <img src="thanks_feedback.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container">
+   <div class="oe_row oe_spaced">
+       <h3 class="oe_slogan"><b style="color:CRIMSON;">Reports -> Machine Request in PDF, Machine Repair Lable and Machine Repair Analysis Available</b></h3>
+       <div class="oe_demo oe_screenshot">
+        <img src="print_report.png">
+        <img src="report_lable.png">
+        <img src="report_req_1.png">
+        <img src="report_req_2.png">
+       </div>
+   </div>
+</section>
+<section class="oe_container" >
+   <div class="oe_row oe_spaced">
+       <div class="oe_span6">
+           <div class="oe_picture" style="margin: 25px 10%;">
+               <a href="http://www.probuse.com/">
+                   <img src="logo.png">
+               </a>
+           </div>
+       </div>
+       <div class="oe_span6">
+           <p class="oe_mt32">
+               If you need any help or want more additional features,<br/> you may contact us through:<br/>
+               Email: <a href="contact@probuse.com">contact@probuse.com</a> <br/>
+               Website: <a href="http://www.probuse.com/" target='new'><u>www.probuse.com</u></a> <br/>
+               Skype: mustufa_probuse<br/>
+           </p>
+       </div>
+   </div>
+</section>
+
+
